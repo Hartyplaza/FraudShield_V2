@@ -113,7 +113,7 @@ Default 0.5 threshold is wrong for imbalanced data. Swept 0.01–0.95 on the val
 | Model | CV PR-AUC | Test PR-AUC | Test ROC-AUC |
 |-------|-----------|-------------|--------------|
 | **LightGBM** | **0.9038** | **0.9287** | **0.9972** |
-| XGBoost | — | 0.8567 | 0.9933 |
+| XGBoost | 0.8476 | 0.8567 | 0.9933 |
 | LogisticRegression | 0.0957 | 0.6294 | 0.9779 |
 | RandomForest | 0.0964 | 0.5659 | 0.9818 |
 
